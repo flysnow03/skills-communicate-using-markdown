@@ -1,15 +1,4 @@
-# Daily Learning
-## Morning Planning
-## Review
-- list1
-- list2
-- list3
-+ list4
-+ list5
-* list6
-* list7
-1. lista
-2. listb
-3. list3
-5. list4
-- [ ] mission completed
+## Morning Plan
+- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
